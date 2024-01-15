@@ -4187,6 +4187,11 @@ Set in 1999 and 2019, it takes the audience on Bo-ra's emotional journey full of
 ![WhatsApp Image 2024-01-15 at 14 25 20](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/b0e0db0f-c212-4c99-8b77-35aedee2a5b3)
 
 
+# ICE COLD
+
+![WhatsApp Image 2024-01-15 at 14 25 21](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/81fa4131-1660-4beb-82f0-31ceef5dab8c)
+
+
 # TWO ACTIVITY
 
 ![WhatsApp Image 2024-01-15 at 14 25 20 (1)](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/62c6f233-f429-4c86-8b79-ae22d4e35580)
