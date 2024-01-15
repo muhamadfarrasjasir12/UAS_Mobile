@@ -1,6 +1,5 @@
 # UAS_Mobile
 
-# SerendipityApps - UAS_PEMROGMOBILE
 
 
 Nama    : Muhamad Farras Jasir
@@ -4166,6 +4165,51 @@ Set in 1999 and 2019, it takes the audience on Bo-ra's emotional journey full of
 ```
 
 > **Hasil RUN  :**
+
+# HALAMAN UTAMA
+
+
+![WhatsApp Image 2024-01-15 at 14 24 39](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/6bcec341-68e9-403a-8750-c0a0502a2a94)
+
+
+# MENU PROGRAM
+
+![WhatsApp Image 2024-01-15 at 13 25 18](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/1267af0c-af39-4960-9354-9693d4ada375)
+
+
+# Hello World
+
+![WhatsApp Image 2024-01-15 at 14 25 19](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/f7059628-b210-4dc4-8bf3-fa667b07e714)
+
+
+# FIBONACCI
+
+![WhatsApp Image 2024-01-15 at 14 25 20](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/b0e0db0f-c212-4c99-8b77-35aedee2a5b3)
+
+
+# TWO ACTIVITY
+
+![WhatsApp Image 2024-01-15 at 14 25 20 (1)](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/62c6f233-f429-4c86-8b79-ae22d4e35580)
+
+
+# MOVIE
+
+![WhatsApp Image 2024-01-15 at 14 26 37](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/98e6d928-0438-40ab-b77a-c75b3d694da0)
+
+
+
+# MAPS
+
+![WhatsApp Image 2024-01-15 at 14 26 37 (1)](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/e77fbb7c-e54c-4379-a7d3-15b05a58a3c1)
+
+
+
+# ALARM
+
+![WhatsApp Image 2024-01-15 at 14 26 37 (2)](https://github.com/muhamadfarrasjasir12/UAS_Mobile/assets/150880443/565c9e8d-515b-4cdd-8dad-c40a0b3bd928)
+
+
+
 
 
 
